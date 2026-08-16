@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6a80949316776b7aef001d69"
+  },
+  "Mahd": "hd003",
+  "Ngaylap": {
+    "$date": "2021-02-20T00:00:00.000Z"
+  },
+  "Khachhang": {
+    "Makh": "kh003",
+    "Tenkh": "Đỗ Thanh Bình",
+    "Diachi": "TPHCM"
+  },
+  "Sanpham": [
+    {
+      "Masp": "sp002",
+      "Tensp": "Quần jean",
+      "Soluong": 10,
+      "Giaban": 200,
+      "Thanhtien": 2000
+    },
+    {
+      "Masp": "sp005",
+      "Tensp": "Giày",
+      "Soluong": 2,
+      "Giaban": 500,
+      "Thanhtien": 1000
+    }
+  ]
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6a80793aa630b3d6dd65b43d"
+  },
+  "Masv": "sv001",
+  "Hoten": "Đỗ Nhật Lâm",
+  "Ngaysinh": {
+    "$date": "2002-05-15T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "a.tran@gmail.com"
+  ],
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ]
+}]
